@@ -1,0 +1,7 @@
+Room,CurrentTemp,TargetTemp,DamperPosition
+Living Room,72,72,40
+Bedroom 1,76,72,90
+Bedroom 2,70,72,70
+Kitchen,73,72,50
+Basement,68,72,100
+Office,74,72,60
